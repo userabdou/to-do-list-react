@@ -1,0 +1,24 @@
+.app {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  max-height: 80%; 
+  overflow: auto;
+}
+.zoneR{
+  border-radius: 15px;
+  border: 0px;
+  border-bottom: 3px;
+  border-color: black;
+  margin:25px;
+  padding:8px;
+  padding-left: 30px;
+}
+body{
+  background-image: url("tlbg4\ \(1\).jpg");
+  background-size: cover;
+}
